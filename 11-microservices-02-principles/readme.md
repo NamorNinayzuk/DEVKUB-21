@@ -162,3 +162,13 @@ $ curl localhost/images/c31e9789-3fab-4689-aa67-e7ac2684fb0e.jpg > c31e9789-3fab
 $ ls
 c31e9789-3fab-4689-aa67-e7ac2684fb0e.jpg
 ```
+---
+
+#### Дополнительные материалы
+
+- Репозиторий сервисов из задачи 3: [Как запускать, как тестировать, как проверить](https://github.com/netology-code/devkub-homeworks/tree/main/11-microservices-02-principles)
+- Статья [Deploying NGINX as an API Gateway](https://www.nginx.com/blog/deploying-nginx-plus-as-an-api-gateway-part-1)
+- Статья [Облачные API Gateway](https://habr.com/ru/post/557004/)
+- Статья [10 Top Open Source API Gateways and Management Tools](https://www.tecmint.com/open-source-api-gateways-and-management-tools/)
+- Статья [Настройка балансировки нагрузки NGINX и SSL-Терминации](https://www.8host.com/blog/nastrojka-balansirovki-nagruzki-nginx-i-ssl-terminacii/)
+- Статья [Балансировка нагрузки NGINX](https://www.8host.com/blog/balansirovka-nagruzki-nginx/)
